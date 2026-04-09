@@ -1,3 +1,10 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&weight=700&lines=Aspiring+React+Developer;Hardworking+Frontend+Learner;Passionate+Coder;Consistent+and+Self-Motivated;Bug+Solver" />
+</h1>
+
+<div align="center">
+<h1>👋 Hi, Ataur Rahman</h1>
+MERN Stack Developer | Building Scalable, Responsive Web Apps | Passionate About Clean Code & Real-World Solutions
 # 💫 About Me:
 👨‍💻 I'm a MERN Stack Developer<br><br>🔭 Currently Working On: Scalable MERN projects & UI/UX-focused applications<br><br>🌱 Currently Learning: React.js, Next.js, and advanced backend patterns<br><br>👯 Open to Collaborate On: MERN projects, open-source work, and creative UI ideas<br><br>🤔 Seeking Guidance In: Building clean architecture & production-ready deployments<br><br>💬 Ask Me About: React, Node.js, MongoDB, APIs, Authentication, Firebase<br><br>⚡ Fun Fact: Debugging feels like solving a mystery—and I enjoy every clue!
 

@@ -15,9 +15,20 @@ MERN Stack Developer | Building Scalable, Responsive Web Apps | Passionate About
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mahir1401&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mahir1401&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahir1401&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rakibulhasanridoy&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=rakibulhasanridoy&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rakibulhasanridoy&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibulhasanridoy&theme=tokyo-night" height="165"/>
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&weight=700&lines=Thanks+for+visiting+my+profile!+✨;Let's+learn%2C+build+%26+grow+together!+🚀;❤️+From+Rakibul+Hasan+Ridoy" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mahir1401&theme=radical&no-frame=false&no-bg=false&margin-w=4)
